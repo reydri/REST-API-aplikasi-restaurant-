@@ -5,7 +5,7 @@ How to running program rest-api aplikasi restaurant:
 ### npm start
 
 ## CRUD Manajemen User
-www.localhost:3333/getUser -> Read All Table Users
+www.localhost:3333/getUser -> Read All Table Users \br
 www.localhost:3333/getUser/:id -> Find Users
 www.localhost:3333/createUser -> Create Table Users
 www.localhost:3333/updateUser -> Update Table Users
